@@ -1,0 +1,20 @@
+td{
+    border: 2px solid #ef0b0b;
+    
+}
+
+ul{
+    color: blueviolet;
+}
+
+ol{
+    color: goldenrod
+}
+
+dl{
+    color: greenyellow;
+}
+
+dt{
+    color: brown;
+}
